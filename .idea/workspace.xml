@@ -41,10 +41,6 @@
       <change beforePath="$PROJECT_DIR$/../STBADM_PRAC/web/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../STBADM_PRAC/web/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spring/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spring/notice/ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spring/ApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,19 +91,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.Application" />
@@ -127,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653372729269</updated>
       <workItem from="1653372730756" duration="5190000" />
-      <workItem from="1653380128382" duration="390000" />
+      <workItem from="1653380128382" duration="593000" />
     </task>
     <servers />
   </component>
