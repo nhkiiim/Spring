@@ -36,10 +36,10 @@ class MemberServiceIntegrationTest {
     public void 중복_회원_예외() {
         //given
         Member member1 = new Member();
-        member1.setName("짱구");
+        member1.setName("메렁");
 
         Member member2 = new Member();
-        member2.setName("짱구");
+        member2.setName("메렁");
 
         //when
         memberService.join(member1);
